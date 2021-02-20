@@ -1,4 +1,4 @@
-[![Watch the video](http://xstos.github.io/miniredux.gif)](http://xstos.github.io/miniredux.gif)
+[![Watch the video](http://xstos.github.io/miniredux2.gif)](http://xstos.github.io/miniredux2.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
